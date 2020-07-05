@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "gatsby": "^2.23.20",
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
