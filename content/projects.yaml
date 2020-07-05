@@ -1,4 +1,17 @@
 
+
+- name: Street Lighting Digital Twin
+  url: https://cyphylab.chora.tu-berlin.de/gethomesafely/
+  description: |
+    Created a street lighting digital twin for the EIT Digital Activity "Get Home Safely".
+  status: live
+  tags:
+    - Unity
+    - REST
+  icon: website
+  image: images/projects/ghs/simulation.png
+
+
 - name: Foodathon Solutions Market
   url: https://foodathon.github.io/
   description: A platform to handle submittions for the Foodathon hackathon.
@@ -6,7 +19,7 @@
   tags:
     - Django
     - MySQL
-    - DigitalOcean
     - HTML
+    - DigitalOcean
   icon: website
   image: images/projects/foodathon/logo-with-icon.png
