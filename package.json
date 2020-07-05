@@ -6,5 +6,8 @@
   "repository": "https://github.com/addono/website",
   "author": "Adriaan Knapen",
   "license": "UNLICENCED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "gatsby": "^2.23.20"
+  }
 }
