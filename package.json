@@ -1,0 +1,10 @@
+{
+  "name": "@addono/website",
+  "version": "1.0.0",
+  "description": "The personal website of Adriaan Knapen",
+  "main": "index.js",
+  "repository": "https://github.com/addono/website",
+  "author": "Adriaan Knapen",
+  "license": "UNLICENCED",
+  "private": true
+}
