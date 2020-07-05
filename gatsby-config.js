@@ -22,6 +22,15 @@ module.exports = {
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: `content/images/icon.png`,
+        cache_busting_mode: "none",
+      },
+    },
+    {
+      resolve: "gatsby-plugin-offline",
+      options: {
+        workboxConfig: {
+          globPatterns: ["**/*"],
+        },
       },
     },
   ],
