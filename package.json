@@ -7,6 +7,11 @@
   "author": "Adriaan Knapen",
   "license": "UNLICENCED",
   "private": true,
+  "scripts": {
+    "dev": "gatsby develop",
+    "start": "gatsby serve",
+    "build": "gatsby build"
+  },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^1.0.9",
     "gatsby": "^2.23.20",
