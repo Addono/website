@@ -1,4 +1,14 @@
 
+- name: ClaimR Website
+  url: https://claimr.tools
+  description: ClaimR's website, made using Gatsby with a customized theme.
+  status: live
+  tags: 
+    - Gatsby
+    - Vercel
+  icon: website
+  image: images/projects/claimr/website.png
+
 - name: PREDICT-19
   url: https://github.com/PREDICT-19/launchpage
   description: Created the website for the PREDICT-19 post-hackathon work.
