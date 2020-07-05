@@ -17,6 +17,7 @@
     "@wkocjan/gatsby-theme-intro": "^1.0.9",
     "gatsby": "^2.23.20",
     "gatsby-plugin-manifest": "^2.4.17",
+    "gatsby-plugin-offline": "^3.2.16",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
