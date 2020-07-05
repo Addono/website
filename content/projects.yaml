@@ -1,4 +1,13 @@
 
+- name: PREDICT-19
+  url: https://github.com/PREDICT-19/launchpage
+  description: Created the website for the PREDICT-19 post-hackathon work.
+  status: live
+  tags:
+    - React
+    - Netlify
+  image: images/projects/predict19/website.png
+  icon: github
 
 - name: Street Lighting Digital Twin
   url: https://cyphylab.chora.tu-berlin.de/gethomesafely/
@@ -10,7 +19,6 @@
     - REST
   icon: website
   image: images/projects/ghs/simulation.png
-
 
 - name: Foodathon Solutions Market
   url: https://foodathon.github.io/
