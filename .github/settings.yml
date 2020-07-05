@@ -8,7 +8,7 @@ repository:
   description: The personal website of Adriaan Knapen.
 
   # A URL with more information about the repository
-  #homepage: https://
+  homepage: https://v2.aknapen.nl
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: true
