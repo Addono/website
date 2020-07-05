@@ -1,0 +1,27 @@
+- profile:
+  initials: AK
+  name: Adriaan Knapen
+  email: hi@aknapen.nl
+  profession: DevOps Consultant & Software Engineer
+  image: images/profile.jpg
+  location: Sweden
+  relocation: true
+  company: Eficode
+  for_hire: true
+  focus: GraphQL + JAMStack
+  focus_url: https://graphql.org
+  about: |
+    Lorem ipsum
+  skills:
+    - TypeScript
+    - CI/CD
+    - Git
+  tools:
+    - React
+    - Apollo
+    - Github
+  budget:
+    currency: €
+    min: 1
+    max: 30
+    default: 10
