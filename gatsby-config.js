@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: "@wkocjan/gatsby-theme-intro",
       options: {
-        theme: "classic",
+        theme: "classic", // https://github.com/wkocjan/gatsby-theme-intro#available-color-variants
         showThemeLogo: false,
       },
     },
