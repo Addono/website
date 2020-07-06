@@ -55,3 +55,17 @@
     - DigitalOcean
   icon: website
   image: images/projects/foodathon/logo-with-icon.png
+
+- name: LISA
+  url: https://github.com/Addono/lisa
+  description: |
+    Lisa Is Super Awesome (LISA) is a webapplication to tally something of your choice between friends. By design it's  made simple, informal and trust-based, as to facilitate the friend group use case.
+  status: live
+  tags:
+    - PHP
+    - HTML
+    - JS
+    - Apache
+    - Docker
+  icon: github
+  image: images/projects/lisa/website.png
