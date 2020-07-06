@@ -9,6 +9,20 @@
   icon: website
   image: images/projects/claimr/website.png
 
+- name: ClaimR Dashboard
+  url: https://dashboard.claimr.tools
+  description: Dashboard to manage API keys for the ClaimR API.
+  status: live
+  tags:
+    - NextJS
+    - NextAuth
+    - FaunaDB
+    - MongoDB Atlas
+    - SendGrid
+    - Vercel
+  icon: website
+  image: images/projects/claimr/dashboard.png
+
 - name: PREDICT-19
   url: https://github.com/PREDICT-19/launchpage
   description: Created the website for the PREDICT-19 post-hackathon work.
