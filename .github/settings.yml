@@ -39,4 +39,5 @@ repository:
 
 labels:
   - name: automerge
+  - name: feature
 
