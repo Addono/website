@@ -63,8 +63,8 @@
   status: live
   tags:
     - Django
-    - MySQL
     - HTML
+    - MySQL
     - DigitalOcean
   icon: website
   image: images/projects/foodathon/logo-with-icon.png
@@ -78,7 +78,8 @@
     - PHP
     - HTML
     - JS
-    - Apache
+    - MySQL
+    # - Apache
     - Docker
   icon: github
   image: images/projects/lisa/website.png
