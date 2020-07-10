@@ -6,7 +6,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "@wkocjan/gatsby-theme-intro",
+      resolve: "@addono/gatsby-theme-intro",
       options: {
         theme: "gh-inspired", // https://github.com/wkocjan/gatsby-theme-intro#available-color-variants
         showThemeLogo: false,

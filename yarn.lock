@@ -2,6 +2,27 @@
 # yarn lockfile v1
 
 
+"@addono/gatsby-theme-intro@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@addono/gatsby-theme-intro/-/gatsby-theme-intro-2.0.0.tgz#555fb8e824aa0eb4d3b43baf2be3fb8369ba2131"
+  integrity sha512-B+5nY1PX5vWL1cm9i4zRGEOm5LaZ0BfI77HYHeUPJwGFNnTqyHrbV6kmdJZJhom49SpxFQSDwxAPeqHuT0vfaA==
+  dependencies:
+    autoprefixer "^9.7.6"
+    color "^3.1.2"
+    gatsby-image "^2.3.4"
+    gatsby-plugin-postcss "^2.2.1"
+    gatsby-plugin-react-helmet "^3.2.1"
+    gatsby-plugin-react-svg "^3.0.0"
+    gatsby-plugin-sharp "^2.5.6"
+    gatsby-source-filesystem "^2.2.2"
+    gatsby-transformer-sharp "^2.4.6"
+    gatsby-transformer-yaml "^2.3.3"
+    postcss-input-range "^4.0.0"
+    prop-types "^15.7.2"
+    react-helmet "^5.2.1"
+    react-icons "^3.9.0"
+    tailwindcss "^1.2.0"
+
 "@ardatan/aggregate-error@0.0.1":
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/@ardatan/aggregate-error/-/aggregate-error-0.0.1.tgz#1403ac5de10d8ca689fc1f65844c27179ae1d44f"
@@ -1877,27 +1898,6 @@
     "@webassemblyjs/ast" "1.9.0"
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
-
-"@wkocjan/gatsby-theme-intro@^1.0.9":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@wkocjan/gatsby-theme-intro/-/gatsby-theme-intro-1.0.10.tgz#b7238717777b34d48bf3cf10c570c2154b4a8c85"
-  integrity sha512-yomWhFNUA7VI11kh6/BgxdLF7DMvd9PSe86Ms6MZm1pzWuqO/Y3hS1euSEx9utX4+/81h5rRg0NxOyp3GB3z+g==
-  dependencies:
-    autoprefixer "^9.7.6"
-    color "^3.1.2"
-    gatsby-image "^2.3.4"
-    gatsby-plugin-postcss "^2.2.1"
-    gatsby-plugin-react-helmet "^3.2.1"
-    gatsby-plugin-react-svg "^3.0.0"
-    gatsby-plugin-sharp "^2.5.6"
-    gatsby-source-filesystem "^2.2.2"
-    gatsby-transformer-sharp "^2.4.6"
-    gatsby-transformer-yaml "^2.3.3"
-    postcss-input-range "^4.0.0"
-    prop-types "^15.7.2"
-    react-helmet "^5.2.1"
-    react-icons "^3.9.0"
-    tailwindcss "^1.2.0"
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
