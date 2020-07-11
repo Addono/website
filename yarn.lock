@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@addono/gatsby-theme-intro@^2.0.0":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@addono/gatsby-theme-intro/-/gatsby-theme-intro-2.0.1.tgz#35acd5a5cc648a88a6b1174493cd0e51bead4001"
-  integrity sha512-7r+3sxtE6f6gK4Ks0AKL0PrIUOE0FArwObgTPyVp2z+7qPkWolWvZS5iviwSnVAk0+bgh8Q8DnrgjxXZsXGP0g==
+"@addono/gatsby-theme-intro@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@addono/gatsby-theme-intro/-/gatsby-theme-intro-2.0.3.tgz#d7e5e66c01d83e69f6e3abd10709ec6dde49f8b6"
+  integrity sha512-eTSTHjpG+ZUhMxD6nohMWA98DTUw6gpWgupZVjycW9MReXZGpooOXvM2In8yDIv85q8M1phuyz/Ieoc79hXUqQ==
   dependencies:
     autoprefixer "^9.7.6"
     color "^3.1.2"

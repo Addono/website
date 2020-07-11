@@ -14,7 +14,7 @@
     "format": "prettier --write -l '{{content}/**/*,*}.{js,jsx,ts,tsx,css,json,md,yml,yaml}'"
   },
   "dependencies": {
-    "@addono/gatsby-theme-intro": "^2.0.0",
+    "@addono/gatsby-theme-intro": "^2.0.3",
     "gatsby": "^2.24.2",
     "gatsby-plugin-manifest": "^2.4.17",
     "gatsby-plugin-offline": "^3.2.16",
