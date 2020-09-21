@@ -77,7 +77,7 @@
   icons: 
     website: https://foodathon.github.io/
     github: https://github.com/foodathon/foodathon.github.io
-  image: images/projects/foodathon/logo-with-icon.png
+  image: images/projects/foodathon/screenshot.png
 
 - name: LISA
   url: https://github.com/Addono/lisa
