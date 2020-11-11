@@ -16,7 +16,7 @@
   "dependencies": {
     "@addono/gatsby-theme-intro": "^2.0.4",
     "gatsby": "^2.24.67",
-    "gatsby-plugin-manifest": "^2.4.34",
+    "gatsby-plugin-manifest": "^2.5.2",
     "gatsby-plugin-offline": "^3.2.31",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
