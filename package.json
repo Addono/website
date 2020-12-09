@@ -17,7 +17,7 @@
     "@addono/gatsby-theme-intro": "^2.0.4",
     "gatsby": "^2.25.4",
     "gatsby-plugin-manifest": "^2.8.0",
-    "gatsby-plugin-offline": "^3.3.3",
+    "gatsby-plugin-offline": "^3.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
