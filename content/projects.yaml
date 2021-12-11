@@ -6,6 +6,9 @@
     - Next.js
     - TailwindCSS
     - Vercel
+  icons:
+    website: https://unveiler.io
+  image: images/projects/unveiler/website.png
 
 - name: ClaimR Website
   url: https://claimr.tools
