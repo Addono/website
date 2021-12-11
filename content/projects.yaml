@@ -1,12 +1,20 @@
+- name: Unveiler.io Website
+  url: https://unveiler.io
+  description: Unveiler.io's website, made using Next.js and TailwindCSS.
+  status: live
+  tags:
+    - Next.js
+    - TailwindCSS
+    - Vercel
 
 - name: ClaimR Website
   url: https://claimr.tools
   description: ClaimR's website, made using Gatsby with a customized theme.
   status: live
-  tags: 
+  tags:
     - Gatsby
     - Vercel
-  icons: 
+  icons:
     github: https://github.com/ClaimR/website
     website: https://claimr.tools
   image: images/projects/claimr/website.png
@@ -22,7 +30,7 @@
     - MongoDB Atlas
     - SendGrid
     - Vercel
-  icons: 
+  icons:
     website: https://dashboard.claimr.tools
   image: images/projects/claimr/dashboard.png
 
@@ -36,7 +44,7 @@
     - Prisma 2
     - Postgress
     - Heroku
-  icons: 
+  icons:
     github: https://github.com/Addono/Fridgetory
     website: https://fridgetory.now.sh
   image: images/projects/fridgetory/screenshot.png
@@ -61,7 +69,7 @@
   tags:
     - Unity
     - REST
-  icons: 
+  icons:
     website: https://cyphylab.chora.tu-berlin.de/gethomesafely/
   image: images/projects/ghs/simulation.png
 
@@ -74,7 +82,7 @@
     - HTML
     - MySQL
     - DigitalOcean
-  icons: 
+  icons:
     website: https://foodathon.github.io/
     github: https://github.com/foodathon/foodathon.github.io
   image: images/projects/foodathon/screenshot.png
@@ -91,7 +99,6 @@
     - MySQL
     # - Apache
     - Docker
-  icons: 
+  icons:
     github: https://github.com/Addono/LISA
   image: images/projects/lisa/website.png
-
